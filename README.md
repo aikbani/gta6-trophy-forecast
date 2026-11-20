@@ -1,6 +1,8 @@
 # gta6-trophy-forecast
 
 [![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/aikbani/gta6-trophy-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/aikbani/gta6-trophy-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 Forecast how many GTA VI players earn each trophy in week one — every PS5 trophy's Exophase earn rate at 2026-11-26 00:00 UTC, as five quantiles (0.05 / 0.25 / 0.5 / 0.75 / 0.95) on the logit scale. Entry for the [make.fun bounty](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) (`gta6-trophy-rarity-forecast-01`, $250, 20 places).
 
